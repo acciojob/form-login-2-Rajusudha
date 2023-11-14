@@ -1,1 +1,5 @@
-//your JS code here. If required.
+<script>
+function myFunction() {
+  alert("Hello! I am an alert box!");
+}
+</script>
